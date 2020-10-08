@@ -5,7 +5,7 @@ Esse desafio foi proposto pela equipe do Qconcurso, para a candidatura à vaga d
 
 ## Imagens
 
-[Print da página Home]()
+![Print da página Home](https://github.com/carlosdoria/desafio-font-end-qconcursos/blob/main/public/img/Home-page-web.jpg)
 
 ## Sobre o Projeto
 O projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
